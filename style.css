@@ -9,7 +9,7 @@
 header {
     display: flex;
     justify-content: space-between;
-    background-image: url("Images/1000_F_317498725_ZjMx0F1o2R3qSQFUv2sPuUCNLCvwk7MA.jpg");
+    background-image: url("images/1000_F_317498725_ZjMx0F1o2R3qSQFUv2sPuUCNLCvwk7MA.jpg");
     height: 80px;
 }
 
@@ -63,7 +63,7 @@ h1 {
 }
 
 body{
-    background-image: url("Images/closeup-concrete-wall-texture-background_1017-24490.jpg");
+    background-image: url("images/closeup-concrete-wall-texture-background_1017-24490.jpg");
     height: 800px;
 }
 
